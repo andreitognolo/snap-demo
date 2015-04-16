@@ -8,7 +8,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "optipng-bin": "2.0.1"
+    "optipng-bin": "2.0.0"
   },
   "engines": {
     "node": ">=0.12.0"
