@@ -8,7 +8,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "grunt-grunticon": "2.1.0"
+    "imagemin-optipng": "^4.0.0"
   },
   "engines": {
     "node": ">=0.12.0"
